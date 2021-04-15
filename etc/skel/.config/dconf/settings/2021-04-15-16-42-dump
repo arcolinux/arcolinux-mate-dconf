@@ -10,7 +10,7 @@ window-width=800
 alignment='center'
 auto-pinning=true
 current-workspace-only=false
-dock-items=['Thunar.dockitem', 'termite.dockitem', 'simplescreenrecorder.dockitem', 'sublime_text_3.dockitem', 'firefox.dockitem', 'vivaldi-stable.dockitem']
+dock-items=['caja.dockitem', 'termite.dockitem', 'simplescreenrecorder.dockitem', 'sublime_text_3.dockitem', 'firefox.dockitem', 'vivaldi-stable.dockitem']
 hide-delay=0
 hide-mode='intelligent'
 icon-size=36
@@ -288,9 +288,9 @@ binding='<Mod4>F9'
 name='evolution'
 
 [org/mate/desktop/keybindings/custom16]
-action='caja'
+action='thunar'
 binding='<Mod4>f'
-name='caja'
+name='thunar'
 
 [org/mate/desktop/keybindings/custom17]
 action='mate-terminal'
@@ -363,9 +363,9 @@ binding='<Primary><Alt>s'
 name='spotify'
 
 [org/mate/desktop/keybindings/custom3]
-action='thunar'
+action='caja'
 binding='<Shift><Mod4>Return'
-name='thunar'
+name='caja'
 
 [org/mate/desktop/keybindings/custom30]
 action='spotify'
@@ -383,14 +383,14 @@ binding='<Primary><Alt>e'
 name='arcolinux-tweak-tool'
 
 [org/mate/desktop/keybindings/custom33]
-action='thunar'
+action='caja'
 binding='<Primary><Alt>b'
-name='thunar'
+name='caja'
 
 [org/mate/desktop/keybindings/custom34]
-action='thunar'
+action='caja'
 binding='<Mod4>F8'
-name='thunar'
+name='caja'
 
 [org/mate/desktop/keybindings/custom35]
 action='urxvt'
