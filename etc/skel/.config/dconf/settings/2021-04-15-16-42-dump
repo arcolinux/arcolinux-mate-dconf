@@ -61,10 +61,6 @@ picture-uri='file:///usr/share/backgrounds/arcolinux/arco-wallpaper.jpg'
 primary-color='#000000'
 secondary-color='#000000'
 
-[org/gnome/desktop/input-sources]
-sources=[('xkb', 'be')]
-xkb-options=@as []
-
 [org/gnome/desktop/interface]
 cursor-theme='Bibata-Modern-Ice'
 gtk-im-module='gtk-im-context-simple'
